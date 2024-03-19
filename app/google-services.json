@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710635730473",
+    "project_id": "sample-weather-2845f",
+    "storage_bucket": "sample-weather-2845f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710635730473:android:d5ec03ea5435416b574e38",
+        "android_client_info": {
+          "package_name": "com.sree.openweather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRdJdNiFFPjM1ySioTGTqVGFKCRkSTo4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
